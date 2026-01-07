@@ -209,5 +209,5 @@ Pricing information is subject to change. For the most current pricing:
 
 ---
 
-**[👉 Get Started with Kie.ai](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c)**
+**[View all models on Kie.ai Market →](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 

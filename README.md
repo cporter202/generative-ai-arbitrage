@@ -2,11 +2,11 @@
 
 A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money. This repo focuses on alternative API access paths to popular models like Veo, Sora, Runway-class video, Midjourney-level images, and Suno-quality music — often at **70–90% lower cost**. 🤯
 
-## 🚀 Get Started
-
-**[👉 Sign up for Kie.ai with my affiliate link](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c)**
+## 🚀 Overview
 
 Kie.ai provides unified API access to the world's best generative AI models at 30-80% lower prices than direct providers. All models are accessed through a single API key with a flexible credit-based system.
+
+**[View all 49-50 models →](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
 ---
 
@@ -145,14 +145,11 @@ Kie.ai uses a **flexible credit-based system** that ensures you only pay for wha
 
 ---
 
-## 🚀 Get Started Today
+## 🚀 Get Started
 
-**[👉 Sign up for Kie.ai with my affiliate link](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c)**
-
-### Next Steps:
-1. Sign up using the affiliate link above
+1. **[Visit Kie.ai Market](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)** to browse all models
 2. Get your free API key
-3. Explore the [AI API Playground](https://kie.ai) for free testing
+3. Explore the [AI API Playground](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c) for free testing
 4. Check out the [API Documentation](https://docs.kie.ai) for integration guides
 5. Start building with the world's top AI models at 70%+ savings!
 
@@ -160,10 +157,11 @@ Kie.ai uses a **flexible credit-based system** that ensures you only pay for wha
 
 ## 📚 Resources
 
-- **Kie.ai Website:** [https://kie.ai](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c)
-- **API Documentation:** [https://docs.kie.ai](https://docs.kie.ai)
-- **Market/Models List:** [https://docs.kie.ai/market/quickstart](https://docs.kie.ai/market/quickstart)
-- **Support:** Available 24/7 via [email protected]
+- **[Kie.ai Market](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)** - View all 49-50 models
+- **[Kie.ai Website](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c)**
+- **[API Documentation](https://docs.kie.ai)**
+- **[Market Quickstart Guide](https://docs.kie.ai/market/quickstart)**
+- **Support:** Available 24/7
 
 ---
 
