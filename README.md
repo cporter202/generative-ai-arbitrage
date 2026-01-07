@@ -14,35 +14,52 @@ Kie.ai provides unified API access to the world's best generative AI models at 3
 
 ### Google Veo 3.1
 - **Description:** Google DeepMind's latest AI video model with cinematic motion, strong prompt adherence, and synchronized audio output in native 1080p
-- **Kie.ai Pricing:** Available through credit system (typically 30-50% savings)
-- **Direct Pricing:** Not publicly available (Google's internal/limited access)
-- **Savings:** Access to cutting-edge model at fraction of cost
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | $2.00 per 8-second video ($0.25/second) |
+| **Direct** | Not publicly available (Google's internal/limited access) |
+| **Savings** | Access to cutting-edge model otherwise unavailable |
 
 ### Google Veo 3.1 Fast
 - **Description:** Quicker, lower-cost rendering variant of Veo 3.1 with faster processing times
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** Not publicly available
-- **Savings:** Optimized for speed and cost efficiency
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | $0.40 per 8-second video ($0.05/second) |
+| **Direct** | $6.00 per 8-second video (Replicate.com, Fal.ai) |
+| **Savings** | ~93% cheaper |
 
 ### Runway Aleph
 - **Description:** Runway's "in-context" video model enabling multi-task editing — seamlessly add/remove objects, relight footage, change angles or styles via text prompts
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** Runway subscription plans (typically $12-95/month)
-- **Savings:** Pay-per-use vs. monthly subscriptions
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | Pay-per-use (credit system) |
+| **Direct** | Runway subscription ($12-95/month) |
+| **Savings** | Pay-per-use vs. monthly subscription |
 
 ### Sora 2 (OpenAI)
 - **Description:** OpenAI's advanced video generation model producing high-quality HD videos
-- **Kie.ai Pricing:** **$0.15 per 10-second HD video** (with audio, no watermark)
-- **Direct Pricing:** $0.10 per second (standard) / $0.20 per second (Sora 2 Pro) = **$1.00-$2.00 per 10 seconds**
-- **Savings:** **85-92.5% cheaper** than direct pricing
-- **Source:** [Moderndiplomacy.eu](https://moderndiplomacy.eu/2025/10/16/how-the-sora-2-ai-video-generation-api-on-kie-ai-is-redefining-global-creative-industries/)
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | $0.15 per 10-second HD video (with audio, no watermark) |
+| **Direct** | $0.10/second (standard) or $0.20/second (Pro) = $1.00-$2.00 per 10 seconds |
+| **Savings** | 85-92.5% cheaper |
+
+*Source: [Moderndiplomacy.eu](https://moderndiplomacy.eu/2025/10/16/how-the-sora-2-ai-video-generation-api-on-kie-ai-is-redefining-global-creative-industries/)*
 
 ### Seedance 1.5 Pro
 - **Description:** High-quality video generation model
-- **Kie.ai Pricing:** **$0.04 for 4-second 480p video** (without audio)
-- **Direct Pricing:** $0.052 per second on Replicate.com = **$0.208 for 4 seconds**
-- **Savings:** **~81% cheaper** than Replicate
-- **Source:** [Nerdbot.com](https://nerdbot.com/2025/12/27/affordable-seedance-1-5-pro-api-price-on-kie-ai-a-solution-for-high-quality-videos/)
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | $0.04 per 4-second 480p video (without audio) |
+| **Direct** | $0.052/second on Replicate.com = $0.208 per 4 seconds |
+| **Savings** | ~81% cheaper |
+
+*Source: [Nerdbot.com](https://nerdbot.com/2025/12/27/affordable-seedance-1-5-pro-api-price-on-kie-ai-a-solution-for-high-quality-videos/)*
 
 ---
 
@@ -50,36 +67,61 @@ Kie.ai provides unified API access to the world's best generative AI models at 3
 
 ### 4o Image API (OpenAI GPT-4o)
 - **Description:** OpenAI's GPT-4o image model for high-fidelity visuals with accurate text rendering, flexible style control, and consistent quality across variations
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** OpenAI API pricing (varies by resolution)
-- **Savings:** Typically 30-50% lower than direct
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | Credit-based pricing (typically 30-50% lower) |
+| **Direct** | OpenAI API pricing (varies by resolution) |
+| **Savings** | 30-50% lower than direct |
 
 ### Flux.1 Kontext (Black Forest Labs)
 - **Description:** Black Forest Labs' image model for vivid, coherent scenes with strong subject consistency, designed for detailed and repeatable outputs
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** Black Forest Labs API pricing
-- **Savings:** Significant cost reduction vs. direct access
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | Credit-based pricing |
+| **Direct** | Black Forest Labs API pricing |
+| **Savings** | Significant cost reduction vs. direct access |
+
+### Flux.1 Kontext [dev]
+- **Description:** Advanced image editing capabilities with precise modifications through text prompts
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | $0.025 per image |
+| **Direct** | Black Forest Labs API (varies) |
+| **Savings** | Significant cost reduction, affordable for developers |
 
 ### Nano Banana
 - **Description:** Fast and precise AI image generation and editing with strong visual consistency and realistic physics simulation
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** Varies by provider
-- **Savings:** Competitive pricing with unified API access
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | Credit-based pricing |
+| **Direct** | Varies by provider |
+| **Savings** | Competitive pricing with unified API access |
 
 ### Nano Banana Pro
 - **Description:** Advanced version of Nano Banana for high-resolution image generation
-- **Kie.ai Pricing:** **$0.12 per image**
-- **Direct Pricing:** 
-  - Google: $0.134 per image (1K/2K) / $0.24 per image (4K)
-- **Savings:** **10-50% cheaper** (especially for 4K: 50% savings)
-- **Source:** [Technology.org](https://www.technology.org/2025/11/24/the-real-cost-of-nano-banana-pro-api-why-developers-choose-kie-ai-for-ai-image-generation/)
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | $0.12 per image |
+| **Direct** | $0.134/image (1K/2K) or $0.24/image (4K) |
+| **Savings** | 10% (1K/2K) or 50% (4K) |
+
+*Source: [Technology.org](https://www.technology.org/2025/11/24/the-real-cost-of-nano-banana-pro-api-why-developers-choose-kie-ai-for-ai-image-generation/)*
 
 ### GPT Image 1.5
-- **Description:** OpenAI's image generation model
-- **Kie.ai Pricing:** **$0.02 per medium-quality image** / **~$0.11 per high-quality image**
-- **Direct Pricing:** Varies (typically higher)
-- **Savings:** **35-45% savings** compared to other platforms
-- **Source:** [Seaislenews.com](https://seaislenews.com/news/2026/jan/05/chatgpt-image-api-at-scale-using-gpt-image-15-model-on-kieai-with-lower-costs/)
+- **Description:** OpenAI's image generation model with text-to-image, image-to-image, editing, and inpainting capabilities
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | ~$0.02 (low), ~$0.07 (medium), ~$0.19 (high) per image |
+| **Direct** | Varies (typically higher) |
+| **Savings** | 35-50% compared to other platforms |
+
+*Source: [Seaislenews.com](https://seaislenews.com/news/2026/jan/05/chatgpt-image-api-at-scale-using-gpt-image-15-model-on-kieai-with-lower-costs/)*
 
 ---
 
@@ -89,9 +131,12 @@ Kie.ai provides unified API access to the world's best generative AI models at 3
 - **Description:** Advanced music generation model for realistic vocals, precise lyric-to-melody alignment, and high-quality multi-genre production
 - **Supported Versions:** V3.5, V4, V4.5, V4.5 Plus
 - **Features:** Enhanced vocals, richer sound, better song structure, smart prompts — up to 8 minutes long
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** Suno subscription plans (typically $8-24/month)
-- **Savings:** Pay-per-use vs. monthly subscriptions, API access vs. web interface
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | Pay-per-use API (credit system) |
+| **Direct** | Suno subscription ($8-24/month) + web interface only |
+| **Savings** | Pay-per-use vs. monthly subscription, API access vs. web-only |
 
 ---
 
@@ -99,9 +144,12 @@ Kie.ai provides unified API access to the world's best generative AI models at 3
 
 ### Advanced LLM & AI Chat APIs
 - **Description:** Power your applications with advanced LLM and AI Chat APIs for natural conversations, coding help, and knowledge-based responses
-- **Kie.ai Pricing:** Available through credit system
-- **Direct Pricing:** Varies by provider (e.g., OpenAI GPT-5: $1.25 per 1K input tokens, $10.00 per 1K output tokens)
-- **Savings:** Significant cost reduction, especially for high-volume usage
+
+| Pricing | Cost |
+|---------|------|
+| **Kie.ai** | Credit-based pricing (typically 30-50% lower) |
+| **Direct** | Varies by provider (e.g., GPT-5: $1.25/1K input tokens, $10.00/1K output tokens) |
+| **Savings** | Significant cost reduction, especially for high-volume usage |
 
 ---
 
