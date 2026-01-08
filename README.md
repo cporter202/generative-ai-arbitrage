@@ -43,6 +43,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | Not publicly available (Google's internal/limited access) |
 | **💎 Savings** | Access to cutting-edge model otherwise unavailable |
 
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
+
 </div>
 
 ---
@@ -57,6 +59,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🟢 Kie.ai** | **$0.40** per 8-second video ($0.05/second) |
 | **🔴 Direct** | **$6.00** per 8-second video (Replicate.com, Fal.ai) |
 | **💎 Savings** | **~93% cheaper** 🎉 |
+
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
 </div>
 
@@ -73,6 +77,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | Runway subscription ($12-95/month) |
 | **💎 Savings** | Pay-per-use vs. monthly subscription |
 
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
+
 </div>
 
 ---
@@ -88,9 +94,9 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | $0.10/second (standard) or $0.20/second (Pro) = **$1.00-$2.00** per 10 seconds |
 | **💎 Savings** | **85-92.5% cheaper** 🚀 |
 
-</div>
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
-<sub>📚 Source: [Moderndiplomacy.eu](https://moderndiplomacy.eu/2025/10/16/how-the-sora-2-ai-video-generation-api-on-kie-ai-is-redefining-global-creative-industries/)</sub>
+</div>
 
 ---
 
@@ -105,9 +111,9 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | $0.052/second on Replicate.com = **$0.208** per 4 seconds |
 | **💎 Savings** | **~81% cheaper** 💪 |
 
-</div>
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
-<sub>📚 Source: [Nerdbot.com](https://nerdbot.com/2025/12/27/affordable-seedance-1-5-pro-api-price-on-kie-ai-a-solution-for-high-quality-videos/)</sub>
+</div>
 
 ---
 
@@ -124,6 +130,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | OpenAI API pricing (varies by resolution) |
 | **💎 Savings** | 30-50% lower than direct |
 
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
+
 </div>
 
 ---
@@ -138,6 +146,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🟢 Kie.ai** | Credit-based pricing |
 | **🔴 Direct** | Black Forest Labs API pricing |
 | **💎 Savings** | Significant cost reduction vs. direct access |
+
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
 </div>
 
@@ -154,6 +164,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | Black Forest Labs API (varies) |
 | **💎 Savings** | Significant cost reduction, affordable for developers |
 
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
+
 </div>
 
 ---
@@ -168,6 +180,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🟢 Kie.ai** | Credit-based pricing |
 | **🔴 Direct** | Varies by provider |
 | **💎 Savings** | Competitive pricing with unified API access |
+
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
 </div>
 
@@ -184,9 +198,9 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | $0.134/image (1K/2K) or **$0.24/image** (4K) |
 | **💎 Savings** | 10% (1K/2K) or **50% (4K)** 🎯 |
 
-</div>
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
-<sub>📚 Source: [Technology.org](https://www.technology.org/2025/11/24/the-real-cost-of-nano-banana-pro-api-why-developers-choose-kie-ai-for-ai-image-generation/)</sub>
+</div>
 
 ---
 
@@ -201,9 +215,9 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | Varies (typically higher) |
 | **💎 Savings** | 35-50% compared to other platforms |
 
-</div>
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
-<sub>📚 Source: [Seaislenews.com](https://seaislenews.com/news/2026/jan/05/chatgpt-image-api-at-scale-using-gpt-image-15-model-on-kieai-with-lower-costs/)</sub>
+</div>
 
 ---
 
@@ -223,6 +237,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🔴 Direct** | Suno subscription ($8-24/month) + web interface only |
 | **💎 Savings** | Pay-per-use vs. monthly subscription, API access vs. web-only |
 
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
+
 </div>
 
 ---
@@ -239,6 +255,8 @@ All models are accessed through a **single API key** with a flexible credit-base
 | **🟢 Kie.ai** | Credit-based pricing (typically 30-50% lower) |
 | **🔴 Direct** | Varies by provider (e.g., GPT-5: $1.25/1K input tokens, $10.00/1K output tokens) |
 | **💎 Savings** | Significant cost reduction, especially for high-volume usage |
+
+**[🔗 View Model](https://kie.ai/market?ref=57750b88b19345671d76ef48809ea89c)**
 
 </div>
 
