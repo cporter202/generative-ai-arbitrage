@@ -8,7 +8,7 @@
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-success)](https://kie.ai?ref=57750b88b19345671d76ef48809ea89c)
 [![API](https://img.shields.io/badge/API-Unified-orange)](https://docs.kie.ai)
 
-![Pricing Comparison](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1767900751278-ChatGPT%20Image%20Jan%208%2C%202026%2C%2002_32_25%20PM.png?alt=media&token=3b0cd608-d779-45b1-aade-509e2b737489)
+![Pricing Comparison](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1767911093375-Untitled%20design%20(19).png?alt=media&token=abcd6c07-bcdf-4118-b497-e5a2f5ea0fe5)
 
 **A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money.**
 
